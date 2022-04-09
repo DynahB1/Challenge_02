@@ -2,7 +2,7 @@
 
 ---
 
-##*Welcome to my loan qualifier app. This is a helpfull program that will automatize the application process to obtain a loan from different banks. Feel free to explore my codebase!* 
+## *Welcome to my loan qualifier app. This is a helpfull program that will automatize the application process to obtain a loan from different banks. Feel free to explore my codebase!* 
 
 ```python
 text = "The saved list of loans you qualify for can be found in this file qualifying_loans.csv.""
