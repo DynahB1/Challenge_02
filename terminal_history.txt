@@ -1,976 +1,966 @@
-   50  conda activate dev
-   51  python conditional_statement.py
-   52  cd ~
-   53  pip list
-   54  clear
-   55  cd desktop
-   56  cd 03_The_401k_Shuffle
-   57  cd solved
-   58  conda activate 
-   59  conda activate dev
-   60  python the_401k_shuffle.py
-   61  jupyter lab
-   62  conda activate dev
-   63  python the_401k_shuffle.py
+   50  cd Fintech_Workspace
+   51  jupyter lab
+   52  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   53  import pathlib
+   54  conda actuvate dev
+   55  conda activate dev
+   56  import pathlib
+   57  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   58  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   59  cd desktop
+   60  git clone git@github.com:DynahB1/Challenge_1.git
+   61  ls
+   62  cd challenge_1
+   63  ls
    64  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
-   65  clear 
-   66  cd ~
-   67   cd desktop
-   68  jupyter lab
-   69  conda activate dev
-   70  pip install fire
-   71  conda deactivate
-   72  jupyter lab
-   73  cd desktop
-   74  cd Fintech-Workspace
-   75  jupyter Lab
-   76  cd desktop
-   77  cd Fintech-Workshop
-   78  git clone
-   79  git clone git@github.com:DynahB1/Challenge_1.git
-   80  cd Challenge_1
-   81  ls
-   82  cd desktop
-   83  cd Fintech_Workspace
-   84  jupyter lab
-   85  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
-   86  import pathlib
-   87  conda actuvate dev
-   88  conda activate dev
-   89  import pathlib
-   90  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
-   91  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
-   92  cd desktop
-   93  git clone git@github.com:DynahB1/Challenge_1.git
-   94  ls
-   95  cd challenge_1
-   96  ls
-   97  /Users/dynahvidaurre/opt/anaconda3/bin/jupyter_mac.command ; exit;
-   98  cd desktop
-   99  git clone git@github.com:DynahB1/Challenge_1.git
-  100  ls
-  101  cd challenge_1
-  102  ls
-  103  pip -V
-  104  conda actiavte dev
-  105  conda activate dev
-  106  pip -V
-  107  a activate dev
-  108  conda actiavte dev
-  109  conda activate dev
-  110  conda list pandas
-  111  conda list jupyter lab
-  112  conda list jupyterlab
-  113  conda deactivate
-  114  conda activate dev
-  115  conda list
-  116  conda deactivate
-  117  conda actvate dev
-  118  conda activate dev
-  119  cd desktop
-  120  ls
-  121  cd Fintech_Workspace
-  122  jupyter lab
-  123  cd desktop
-  124  cd Fintech_Workshop
-  125  jupyter lap
-  126  jupyter lab
-  127  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  128  cd desktop
-  129  cd Fintech_Workspace
-  130  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  131  clear
-  132  git clone
-  133  clear
-  134  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+   65  cd desktop
+   66  git clone git@github.com:DynahB1/Challenge_1.git
+   67  ls
+   68  cd challenge_1
+   69  ls
+   70  pip -V
+   71  conda actiavte dev
+   72  conda activate dev
+   73  pip -V
+   74  a activate dev
+   75  conda actiavte dev
+   76  conda activate dev
+   77  conda list pandas
+   78  conda list jupyter lab
+   79  conda list jupyterlab
+   80  conda deactivate
+   81  conda activate dev
+   82  conda list
+   83  conda deactivate
+   84  conda actvate dev
+   85  conda activate dev
+   86  cd desktop
+   87  ls
+   88  cd Fintech_Workspace
+   89  jupyter lab
+   90  cd desktop
+   91  cd Fintech_Workshop
+   92  jupyter lap
+   93  jupyter lab
+   94  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+   95  cd desktop
+   96  cd Fintech_Workspace
+   97  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+   98  clear
+   99  git clone
+  100  clear
+  101  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  102  clear
+  103  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  104  clear
+  105  ls -al ~/.ssh
+  106  pbcopy < ~/.ssh/id_rsa.pub
+  107  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  108  cd desktop
+  109  cd Fintech_Workspace
+  110  jupyter lab
+  111  git status
+  112  clear
+  113  conda ativate dev
+  114  clear
+  115  conda actiavte dev
+  116  clear
+  117  conda activate dev
+  118  cd desktop
+  119  cd Fintech_Workshop
+  120  cd Fintech_Workspace
+  121  ls
+  122  cd Module_1
+  123  ls
+  124  cd Starter_Code
+  125  ls
+  126  cd Challenge_1
+  127  git status
+  128  clear
+  129  git clone git@github.com:DynahB1/Challenge_1.git
+  130  ls
+  131   git status
+  132  git add -A
+  133  git clone git@github.com:DynahB1/Challenge_1.git
+  134  git status
   135  clear
-  136  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  137  clear
-  138  ls -al ~/.ssh
-  139  pbcopy < ~/.ssh/id_rsa.pub
-  140  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  141  cd desktop
-  142  cd Fintech_Workspace
+  136  conda activate dev
+  137  cd desktop
+  138  cd Fintech_Workspace
+  139  jupyter lab
+  140  cd desktop
+  141  cd Fintech_Workspace
+  142  conda activate dev
   143  jupyter lab
-  144  git status
-  145  clear
-  146  conda ativate dev
-  147  clear
-  148  conda actiavte dev
-  149  clear
+  144  cd desktop
+  145  cd Fintech_Workspace
+  146  jupyter lab
+  147  top
+  148  cd desktop
+  149  cd Fintech_Worspace
   150  conda activate dev
-  151  cd desktop
-  152  cd Fintech_Workshop
-  153  cd Fintech_Workspace
-  154  ls
-  155  cd Module_1
-  156  ls
-  157  cd Starter_Code
-  158  ls
-  159  cd Challenge_1
-  160  git status
-  161  clear
-  162  git clone git@github.com:DynahB1/Challenge_1.git
-  163  ls
-  164   git status
-  165  git add -A
-  166  git clone git@github.com:DynahB1/Challenge_1.git
-  167  git status
-  168  clear
-  169  conda activate dev
-  170  cd desktop
-  171  cd Fintech_Workspace
-  172  jupyter lab
-  173  cd desktop
-  174  cd Fintech_Workspace
-  175  conda activate dev
-  176  jupyter lab
-  177  cd desktop
-  178  cd Fintech_Workspace
-  179  jupyter lab
-  180  top
-  181  cd desktop
-  182  cd Fintech_Worspace
-  183  conda activate dev
-  184  git clone
-  185  clear
-  186  gitlab clone
-  187  git clone
-  188  clear git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  189  clear
-  190  cd Fintech_Workspace
-  191  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  192  git push git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
-  193  clear
-  194  conda activate dev
-  195  cd desktop 
-  196  cd Fintech_Workspace
-  197  cd Module_3
-  198  jupyter lab
-  199  conda activate dev
-  200  cd desktop
-  201  cd Fintech_Workspace
-  202  Module_02
-  203  cd Module_02
-  204  pip -V
-  205  comda activate dev
-  206  conda activate dev
-  207  pip -V
-  208  pip freeze
-  209  pip install fire
-  210  pip install questionary
-  211  conda activate dev
-  212  python app.py
-  213  cd desktop
-  214  cd Fintech_Workspace
-  215  cd Module_2
-  216  cd Online_Work
-  217  cd 02_Loan_Qualifier_Filtering_Data
-  218  cd Unsolved
-  219  python app.py
-  220  cd desktop
-  221  cd Fintech_Workspace
-  222  conda activate dev
-  223  python add.py
-  224  python add.py
-  225  python add.py
-  226  python add.py
-  227  python add.py
-  228  python add.py
-  229  clear
-  230  python add.py
+  151  git clone
+  152  clear
+  153  gitlab clone
+  154  git clone
+  155  clear git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  156  clear
+  157  cd Fintech_Workspace
+  158  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  159  git push git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  160  clear
+  161  conda activate dev
+  162  cd desktop 
+  163  cd Fintech_Workspace
+  164  cd Module_3
+  165  jupyter lab
+  166  conda activate dev
+  167  cd desktop
+  168  cd Fintech_Workspace
+  169  Module_02
+  170  cd Module_02
+  171  pip -V
+  172  comda activate dev
+  173  conda activate dev
+  174  pip -V
+  175  pip freeze
+  176  pip install fire
+  177  pip install questionary
+  178  conda activate dev
+  179  python app.py
+  180  cd desktop
+  181  cd Fintech_Workspace
+  182  cd Module_2
+  183  cd Online_Work
+  184  cd 02_Loan_Qualifier_Filtering_Data
+  185  cd Unsolved
+  186  python app.py
+  187  cd desktop
+  188  cd Fintech_Workspace
+  189  conda activate dev
+  190  python add.py
+  191  python add.py
+  192  python add.py
+  193  python add.py
+  194  python add.py
+  195  python add.py
+  196  clear
+  197  python add.py
+  198  clear
+  199  python add.py
+  200  python add.py
+  201  python add.py
+  202  clear
+  203  python add.py
+  204  python add.py
+  205  python add.py
+  206  clear
+  207  conda activate dev
+  208  cd desktop
+  209  cd Fintech_Worspace
+  210  cd Fintech_Workspace
+  211  cd Module_2
+  212  cd Online_Work
+  213  cd practice_2
+  214  python cli.py
+  215  import fire
+  216  cleart
+  217  clear
+  218  pip install fire
+  219  import fire
+  220  clera
+  221  clear
+  222  python cli.py
+  223  python cli.py
+  224  python cli.py
+  225  clear
+  226  pip install fire
+  227  import fire
+  228  python cli.py
+  229  conda activate dev
+  230  python cli.py
   231  clear
-  232  python add.py
-  233  python add.py
-  234  python add.py
-  235  clear
-  236  python add.py
-  237  python add.py
-  238  python add.py
-  239  clear
-  240  conda activate dev
-  241  cd desktop
-  242  cd Fintech_Worspace
-  243  cd Fintech_Workspace
-  244  cd Module_2
-  245  cd Online_Work
-  246  cd practice_2
-  247  python cli.py
-  248  import fire
-  249  cleart
-  250  clear
-  251  pip install fire
-  252  import fire
-  253  clera
-  254  clear
-  255  python cli.py
+  232  install fire
+  233  clear
+  234  pip install fire
+  235  python cli.py
+  236  import fire
+  237  clear
+  238  pip install fire
+  239  import fire
+  240  python cli.py
+  241  python cli.py
+  242  cd desktop
+  243  cd Fintech_Worksapce
+  244  cd Fintech_Workspace
+  245  cd Module_02
+  246  cd Modeule_2
+  247  cd Module_2
+  248  conda activate dev
+  249  jupyter lab
+  250  conda activate dev
+  251  python cli.py
+  252  ls
+  253  cd Online_Work
+  254  ls
+  255  cd practice_2
   256  python cli.py
   257  python cli.py
-  258  clear
-  259  pip install fire
-  260  import fire
-  261  python cli.py
-  262  conda activate dev
-  263  python cli.py
-  264  clear
-  265  install fire
-  266  clear
-  267  pip install fire
+  258  python cli.py
+  259  python cli.py
+  260  clear
+  261  import fire
+  262  python cli.py
+  263  pip install fire
+  264  python cli.py
+  265  clear
+  266  pip install fire
+  267  ls
   268  python cli.py
-  269  import fire
-  270  clear
-  271  pip install fire
-  272  import fire
-  273  python cli.py
-  274  python cli.py
-  275  cd desktop
-  276  cd Fintech_Worksapce
-  277  cd Fintech_Workspace
-  278  cd Module_02
-  279  cd Modeule_2
-  280  cd Module_2
-  281  conda activate dev
-  282  jupyter lab
-  283  conda activate dev
-  284  python cli.py
-  285  ls
-  286  cd Online_Work
-  287  ls
-  288  cd practice_2
-  289  python cli.py
+  269  python cli.py
+  270  cd Online_Work
+  271  cd 02_Loan_Qualifier_Filtering_Data
+  272  cd Unsolved
+  273  conda activate dev
+  274  python app.py
+  275  conda activate dev
+  276  cd desktop
+  277  cd Fintech_Worksapce
+  278  cd Fintech_Workspace
+  279  cd Module_02
+  280  cd Modeule_2
+  281  cd Module_2
+  282  conda activate dev
+  283  jupyter lab
+  284  conda activate dev
+  285  python cli.py
+  286  ls
+  287  cd Online_Work
+  288  ls
+  289  cd practice_2
   290  python cli.py
   291  python cli.py
   292  python cli.py
-  293  clear
-  294  import fire
-  295  python cli.py
-  296  pip install fire
-  297  python cli.py
-  298  clear
-  299  pip install fire
-  300  ls
-  301  python cli.py
+  293  python cli.py
+  294  clear
+  295  import fire
+  296  python cli.py
+  297  pip install fire
+  298  python cli.py
+  299  clear
+  300  pip install fire
+  301  ls
   302  python cli.py
-  303  cd Online_Work
-  304  cd 02_Loan_Qualifier_Filtering_Data
-  305  cd Unsolved
-  306  conda activate dev
-  307  python app.py
-  308  conda activate dev
-  309  cd desktop
-  310  cd Fintech_Worksapce
-  311  cd Fintech_Workspace
-  312  cd Module_02
-  313  cd Modeule_2
-  314  cd Module_2
-  315  conda activate dev
-  316  jupyter lab
-  317  conda activate dev
-  318  python cli.py
-  319  ls
-  320  cd Online_Work
-  321  ls
-  322  cd practice_2
-  323  python cli.py
+  303  python cli.py
+  304  cd Online_Work
+  305  cd 02_Loan_Qualifier_Filtering_Data
+  306  cd Unsolved
+  307  conda activate dev
+  308  python app.py
+  309  conda activate dev
+  310  cd desktop
+  311  cd Fintech_Worksapce
+  312  cd Fintech_Workspace
+  313  cd Module_02
+  314  cd Modeule_2
+  315  cd Module_2
+  316  conda activate dev
+  317  jupyter lab
+  318  conda activate dev
+  319  python cli.py
+  320  ls
+  321  cd Online_Work
+  322  ls
+  323  cd practice_2
   324  python cli.py
   325  python cli.py
   326  python cli.py
-  327  clear
-  328  import fire
-  329  python cli.py
-  330  pip install fire
-  331  python cli.py
-  332  clear
-  333  pip install fire
-  334  ls
-  335  python cli.py
+  327  python cli.py
+  328  clear
+  329  import fire
+  330  python cli.py
+  331  pip install fire
+  332  python cli.py
+  333  clear
+  334  pip install fire
+  335  ls
   336  python cli.py
-  337  cd Online_Work
-  338  cd 02_Loan_Qualifier_Filtering_Data
-  339  cd Unsolved
-  340  conda activate dev
-  341  python app.py
-  342  conda activate dev
-  343  cd desktop
-  344  cd Fintech_Worksapce
-  345  cd Fintech_Workspace
-  346  cd Module_02
-  347  cd Modeule_2
-  348  cd Module_2
-  349  conda activate dev
-  350  jupyter lab
-  351  conda activate dev
-  352  python cli.py
-  353  ls
-  354  cd Online_Work
-  355  ls
-  356  cd practice_2
-  357  python cli.py
+  337  python cli.py
+  338  cd Online_Work
+  339  cd 02_Loan_Qualifier_Filtering_Data
+  340  cd Unsolved
+  341  conda activate dev
+  342  python app.py
+  343  conda activate dev
+  344  cd desktop
+  345  cd Fintech_Worksapce
+  346  cd Fintech_Workspace
+  347  cd Module_02
+  348  cd Modeule_2
+  349  cd Module_2
+  350  conda activate dev
+  351  jupyter lab
+  352  conda activate dev
+  353  python cli.py
+  354  ls
+  355  cd Online_Work
+  356  ls
+  357  cd practice_2
   358  python cli.py
   359  python cli.py
   360  python cli.py
-  361  clear
-  362  import fire
-  363  python cli.py
-  364  pip install fire
-  365  python cli.py
-  366  clear
-  367  pip install fire
-  368  ls
-  369  python cli.py
+  361  python cli.py
+  362  clear
+  363  import fire
+  364  python cli.py
+  365  pip install fire
+  366  python cli.py
+  367  clear
+  368  pip install fire
+  369  ls
   370  python cli.py
-  371  cd Online_Work
-  372  cd 02_Loan_Qualifier_Filtering_Data
-  373  cd Unsolved
-  374  conda activate dev
-  375  python app.py
-  376  conda activate dev
-  377  cd desktop
-  378  cd Fintech_Worksapce
-  379  cd Fintech_Workspace
-  380  cd Module_02
-  381  cd Modeule_2
-  382  cd Module_2
-  383  conda activate dev
-  384  jupyter lab
-  385  conda activate dev
-  386  python cli.py
-  387  ls
-  388  cd Online_Work
-  389  ls
-  390  cd practice_2
-  391  python cli.py
-  392  python cli.py
-  393  python cli.py
-  394  python cli.py
-  395  clear
-  396  import fire
-  397  python cli.py
-  398  pip install fire
-  399  python cli.py
-  400  clear
-  401  pip install fire
-  402  ls
-  403  python cli.py
-  404  python cli.py
-  405  cd Online_Work
-  406  cd 02_Loan_Qualifier_Filtering_Data
-  407  cd Unsolved
-  408  conda activate dev
-  409  python app.py
-  410  conda activate dev
-  411  conda activate dev
-  412  cd desktop
-  413  cd Fintech_Workshop
-  414  cd Fintech_Workspace
-  415  cd Module_4
-  416  jupyter lab
-  417  PWD
-  418  pwd
-  419  ls
-  420  clear
-  421  cd desktop
-  422  mkdir test_folder
-  423  ls
-  424  cd test_folder
-  425  touch test_file.txt
-  426  ls
-  427  rm test_file.txt
-  428  ls
-  429  cd..
-  430  cd ..
-  431  rm -r
-  432  ls
-  433  cd test_folder
-  434  rm -r
-  435  cd ..
-  436  rm -r test_folder
-  437  conda activate dev
-  438  import fire
-  439  pip install fire
-  440  clear
+  371  python cli.py
+  372  cd Online_Work
+  373  cd 02_Loan_Qualifier_Filtering_Data
+  374  cd Unsolved
+  375  conda activate dev
+  376  python app.py
+  377  conda activate dev
+  378  conda activate dev
+  379  cd desktop
+  380  cd Fintech_Workshop
+  381  cd Fintech_Workspace
+  382  cd Module_4
+  383  jupyter lab
+  384  PWD
+  385  pwd
+  386  ls
+  387  clear
+  388  cd desktop
+  389  mkdir test_folder
+  390  ls
+  391  cd test_folder
+  392  touch test_file.txt
+  393  ls
+  394  rm test_file.txt
+  395  ls
+  396  cd..
+  397  cd ..
+  398  rm -r
+  399  ls
+  400  cd test_folder
+  401  rm -r
+  402  cd ..
+  403  rm -r test_folder
+  404  conda activate dev
+  405  import fire
+  406  pip install fire
+  407  clear
+  408  pip install fire
+  409  ls
+  410  fire version
+  411  clear
+  412  pip -V
+  413  pip freeze
+  414  clear
+  415  pip install questionary
+  416  clear
+  417  pip uninstall fire
+  418  pip install fire
+  419  cd desktoop
+  420  cd desktop
+  421  cd Fintech_workspace
+  422  cd Module_2
+  423  cd Online_Work
+  424  cd practice_2
+  425  import fire
+  426  python cli.py
+  427  cd desktopo
+  428  cd desktop
+  429  cd Fintech_Workspace
+  430  cd Module_2
+  431  jupyter lab
+  432  cd Online_Work
+  433  cd 02_Adding_questionary_to_Loan_Qualifier
+  434  cd unsolved
+  435  python app.py --credit_score=750 --debt=5000 --income=20000
+  436  clear
+  437  conda activated dev
+  438  conda activate dev
+  439  clear
+  440  install fire
   441  pip install fire
-  442  ls
-  443  fire version
-  444  clear
-  445  pip -V
-  446  pip freeze
-  447  clear
-  448  pip install questionary
-  449  clear
-  450  pip uninstall fire
-  451  pip install fire
-  452  cd desktoop
-  453  cd desktop
-  454  cd Fintech_workspace
-  455  cd Module_2
-  456  cd Online_Work
-  457  cd practice_2
-  458  import fire
-  459  python cli.py
-  460  cd desktopo
-  461  cd desktop
-  462  cd Fintech_Workspace
-  463  cd Module_2
-  464  jupyter lab
-  465  cd Online_Work
-  466  cd 02_Adding_questionary_to_Loan_Qualifier
-  467  cd unsolved
-  468  python app.py --credit_score=750 --debt=5000 --income=20000
-  469  clear
-  470  conda activated dev
-  471  conda activate dev
-  472  clear
-  473  install fire
-  474  pip install fire
-  475  clear
-  476  python app.py
-  477  clear 
-  478  python app.py --credit_score=750 --debt=5000 --income=20000
-  479  python app.py
-  480  ls
-  481  cd Online_Work
-  482  ls
+  442  clear
+  443  python app.py
+  444  clear 
+  445  python app.py --credit_score=750 --debt=5000 --income=20000
+  446  python app.py
+  447  ls
+  448  cd Online_Work
+  449  ls
+  450  cd practice_2
+  451  conda activate dev
+  452  python dialog.py
+  453  python dialog.py
+  454  ls
+  455  cd Online_Work
+  456  ls
+  457  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 
+  458  conda activate dev
+  459  python app.py
+  460  cd unsolved
+  461  python app.py
+  462  python app.py
+  463  python app.py
+  464  python app.py --credit_score=750
+  465  python app.py --credit_score=650
+  466  python app.py --credit_score=550
+  467  python app.py --credit_score=450
+  468  clear
+  469  python app.cli --credit_score=450
+  470  python app.py --credit_score=450
+  471  python app.py
+  472  python app.py --credit_score=0
+  473  python app.py --credit_score=0
+  474  python app.py --credit_score=0
+  475  python app.py --credit_score=550
+  476  python app.py --credit_score=550 --debt=3000 --income=50000
+  477  python app.py --credit_score=550 --debt=3000 --income=50000
+  478  pip install questionary
+  479  conda activate dev
+  480  python cli.py
+  481  ls
+  482  cd Online_Work
   483  cd practice_2
-  484  conda activate dev
-  485  python dialog.py
-  486  python dialog.py
-  487  ls
-  488  cd Online_Work
-  489  ls
-  490  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 
-  491  conda activate dev
-  492  python app.py
-  493  cd unsolved
-  494  python app.py
-  495  python app.py
-  496  python app.py
-  497  python app.py --credit_score=750
-  498  python app.py --credit_score=650
-  499  python app.py --credit_score=550
-  500  python app.py --credit_score=450
-  501  clear
-  502  python app.cli --credit_score=450
-  503  python app.py --credit_score=450
-  504  python app.py
-  505  python app.py --credit_score=0
-  506  python app.py --credit_score=0
-  507  python app.py --credit_score=0
-  508  python app.py --credit_score=550
-  509  python app.py --credit_score=550 --debt=3000 --income=50000
-  510  python app.py --credit_score=550 --debt=3000 --income=50000
-  511  pip install questionary
-  512  conda activate dev
-  513  python cli.py
-  514  ls
-  515  cd Online_Work
-  516  cd practice_2
-  517  python cli.py
-  518  python cli.py
-  519  python cli.py --pants=True
-  520  python cli.py --pants=True
-  521  python cli.py --pants = True
-  522  clear
-  523  python cli.py --pants=True
-  524  python cli.py --pants=True
-  525  python cli.py --pants=True
-  526  clear
-  527  python cli.py --pants=True
-  528  cd desktopo
-  529  cd desktop
-  530  cd Fintech_Workspace
-  531  cd Module_2
-  532  jupyter lab
-  533  cd Online_Work
-  534  cd 02_Adding_questionary_to_Loan_Qualifier
-  535  cd unsolved
-  536  python app.py --credit_score=750 --debt=5000 --income=20000
-  537  clear
-  538  conda activated dev
-  539  conda activate dev
-  540  clear
-  541  install fire
-  542  pip install fire
-  543  clear
-  544  python app.py
-  545  clear 
-  546  python app.py --credit_score=750 --debt=5000 --income=20000
-  547  python app.py
-  548  ls
-  549  cd Online_Work
-  550  ls
+  484  python cli.py
+  485  python cli.py
+  486  python cli.py --pants=True
+  487  python cli.py --pants=True
+  488  python cli.py --pants = True
+  489  clear
+  490  python cli.py --pants=True
+  491  python cli.py --pants=True
+  492  python cli.py --pants=True
+  493  clear
+  494  python cli.py --pants=True
+  495  cd desktopo
+  496  cd desktop
+  497  cd Fintech_Workspace
+  498  cd Module_2
+  499  jupyter lab
+  500  cd Online_Work
+  501  cd 02_Adding_questionary_to_Loan_Qualifier
+  502  cd unsolved
+  503  python app.py --credit_score=750 --debt=5000 --income=20000
+  504  clear
+  505  conda activated dev
+  506  conda activate dev
+  507  clear
+  508  install fire
+  509  pip install fire
+  510  clear
+  511  python app.py
+  512  clear 
+  513  python app.py --credit_score=750 --debt=5000 --income=20000
+  514  python app.py
+  515  ls
+  516  cd Online_Work
+  517  ls
+  518  cd practice_2
+  519  conda activate dev
+  520  python dialog.py
+  521  python dialog.py
+  522  ls
+  523  cd Online_Work
+  524  ls
+  525  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 
+  526  conda activate dev
+  527  python app.py
+  528  cd unsolved
+  529  python app.py
+  530  python app.py
+  531  python app.py
+  532  python app.py --credit_score=750
+  533  python app.py --credit_score=650
+  534  python app.py --credit_score=550
+  535  python app.py --credit_score=450
+  536  clear
+  537  python app.cli --credit_score=450
+  538  python app.py --credit_score=450
+  539  python app.py
+  540  python app.py --credit_score=0
+  541  python app.py --credit_score=0
+  542  python app.py --credit_score=0
+  543  python app.py --credit_score=550
+  544  python app.py --credit_score=550 --debt=3000 --income=50000
+  545  python app.py --credit_score=550 --debt=3000 --income=50000
+  546  pip install questionary
+  547  conda activate dev
+  548  python cli.py
+  549  ls
+  550  cd Online_Work
   551  cd practice_2
-  552  conda activate dev
-  553  python dialog.py
-  554  python dialog.py
-  555  ls
-  556  cd Online_Work
-  557  ls
-  558  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 
-  559  conda activate dev
-  560  python app.py
-  561  cd unsolved
-  562  python app.py
-  563  python app.py
-  564  python app.py
-  565  python app.py --credit_score=750
-  566  python app.py --credit_score=650
-  567  python app.py --credit_score=550
-  568  python app.py --credit_score=450
-  569  clear
-  570  python app.cli --credit_score=450
-  571  python app.py --credit_score=450
-  572  python app.py
-  573  python app.py --credit_score=0
-  574  python app.py --credit_score=0
-  575  python app.py --credit_score=0
-  576  python app.py --credit_score=550
-  577  python app.py --credit_score=550 --debt=3000 --income=50000
-  578  python app.py --credit_score=550 --debt=3000 --income=50000
-  579  pip install questionary
-  580  conda activate dev
-  581  python cli.py
-  582  ls
-  583  cd Online_Work
-  584  cd practice_2
-  585  python cli.py
-  586  python cli.py
-  587  python cli.py --pants=True
-  588  python cli.py --pants=True
-  589  python cli.py --pants = True
-  590  clear
-  591  python cli.py --pants=True
-  592  python cli.py --pants=True
-  593  python cli.py --pants=True
-  594  clear
-  595  python cli.py --pants=True
-  596  cd desktopo
-  597  cd desktop
-  598  cd Fintech_Workspace
-  599  cd Module_2
-  600  jupyter lab
-  601  cd Online_Work
-  602  cd 02_Adding_questionary_to_Loan_Qualifier
-  603  cd unsolved
-  604  python app.py --credit_score=750 --debt=5000 --income=20000
-  605  clear
-  606  conda activated dev
-  607  conda activate dev
-  608  clear
-  609  install fire
-  610  pip install fire
-  611  clear
-  612  python app.py
-  613  clear 
-  614  python app.py --credit_score=750 --debt=5000 --income=20000
-  615  python app.py
-  616  ls
-  617  cd Online_Work
-  618  ls
+  552  python cli.py
+  553  python cli.py
+  554  python cli.py --pants=True
+  555  python cli.py --pants=True
+  556  python cli.py --pants = True
+  557  clear
+  558  python cli.py --pants=True
+  559  python cli.py --pants=True
+  560  python cli.py --pants=True
+  561  clear
+  562  python cli.py --pants=True
+  563  cd desktopo
+  564  cd desktop
+  565  cd Fintech_Workspace
+  566  cd Module_2
+  567  jupyter lab
+  568  cd Online_Work
+  569  cd 02_Adding_questionary_to_Loan_Qualifier
+  570  cd unsolved
+  571  python app.py --credit_score=750 --debt=5000 --income=20000
+  572  clear
+  573  conda activated dev
+  574  conda activate dev
+  575  clear
+  576  install fire
+  577  pip install fire
+  578  clear
+  579  python app.py
+  580  clear 
+  581  python app.py --credit_score=750 --debt=5000 --income=20000
+  582  python app.py
+  583  ls
+  584  cd Online_Work
+  585  ls
+  586  cd practice_2
+  587  conda activate dev
+  588  python dialog.py
+  589  python dialog.py
+  590  ls
+  591  cd Online_Work
+  592  ls
+  593  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 
+  594  conda activate dev
+  595  python app.py
+  596  cd unsolved
+  597  python app.py
+  598  python app.py
+  599  python app.py
+  600  python app.py --credit_score=750
+  601  python app.py --credit_score=650
+  602  python app.py --credit_score=550
+  603  python app.py --credit_score=450
+  604  clear
+  605  python app.cli --credit_score=450
+  606  python app.py --credit_score=450
+  607  python app.py
+  608  python app.py --credit_score=0
+  609  python app.py --credit_score=0
+  610  python app.py --credit_score=0
+  611  python app.py --credit_score=550
+  612  python app.py --credit_score=550 --debt=3000 --income=50000
+  613  python app.py --credit_score=550 --debt=3000 --income=50000
+  614  pip install questionary
+  615  conda activate dev
+  616  python cli.py
+  617  ls
+  618  cd Online_Work
   619  cd practice_2
-  620  conda activate dev
-  621  python dialog.py
-  622  python dialog.py
-  623  ls
-  624  cd Online_Work
-  625  ls
-  626  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 
-  627  conda activate dev
-  628  python app.py
-  629  cd unsolved
-  630  python app.py
-  631  python app.py
-  632  python app.py
-  633  python app.py --credit_score=750
-  634  python app.py --credit_score=650
-  635  python app.py --credit_score=550
-  636  python app.py --credit_score=450
+  620  python cli.py
+  621  python cli.py
+  622  python cli.py --pants=True
+  623  python cli.py --pants=True
+  624  python cli.py --pants = True
+  625  clear
+  626  python cli.py --pants=True
+  627  python cli.py --pants=True
+  628  python cli.py --pants=True
+  629  clear
+  630  python cli.py --pants=True
+  631  cd desktop
+  632  cd Fintech_Workspace
+  633  cd Module_4
+  634  jupyter lab
+  635  conda activate dev
+  636  git config --global uder.name <Dynah Beermann>
   637  clear
-  638  python app.cli --credit_score=450
-  639  python app.py --credit_score=450
-  640  python app.py
-  641  python app.py --credit_score=0
-  642  python app.py --credit_score=0
-  643  python app.py --credit_score=0
-  644  python app.py --credit_score=550
-  645  python app.py --credit_score=550 --debt=3000 --income=50000
-  646  python app.py --credit_score=550 --debt=3000 --income=50000
-  647  pip install questionary
-  648  conda activate dev
-  649  python cli.py
-  650  ls
-  651  cd Online_Work
-  652  cd practice_2
-  653  python cli.py
-  654  python cli.py
-  655  python cli.py --pants=True
-  656  python cli.py --pants=True
-  657  python cli.py --pants = True
-  658  clear
-  659  python cli.py --pants=True
-  660  python cli.py --pants=True
-  661  python cli.py --pants=True
-  662  clear
-  663  python cli.py --pants=True
-  664  cd desktop
-  665  cd Fintech_Workspace
-  666  cd Module_4
-  667  jupyter lab
-  668  conda activate dev
-  669  git config --global uder.name <Dynah Beermann>
-  670  clear
-  671  git cinfig --global user.name <Dynah Beermann>
-  672  clear
-  673  git config --global user.mail <dsv2109@columbia.edu>
-  674  clear
-  675  git config --global user.name Dynah Beermann
-  676  git config --global user.email dsv2109@columbia.edu
-  677  git config --list
-  678  cd desktop
-  679  cd Fintech_Workspace
-  680  ls
-  681  cd Module_2
-  682  ls
-  683  cd Starter_Code
-  684  ls
-  685  cd ..
-  686  git clone git@github.com:DynahB1/Challenge_02.git
-  687  cd Challenge_2
-  688  ls
-  689  cd Challenge_02
-  690  pwd
-  691  git status 
-  692  git add README.md
-  693  git status
-  694  touch new_file.txt
-  695  ls
-  696  git status
-  697  git add new_file.txt
-  698  git status
-  699  git commit -m "Updated README and created a new txt file"
-  700  git status
-  701  \git pudh 
-  702  git push
-  703  cd .
-  704  cd ..
-  705  git clone git@github.com:DynahB1/Test_Repo.git
-  706  ls
-  707  git status
-  708  git status
+  638  git cinfig --global user.name <Dynah Beermann>
+  639  clear
+  640  git config --global user.mail <dsv2109@columbia.edu>
+  641  clear
+  642  git config --global user.name Dynah Beermann
+  643  git config --global user.email dsv2109@columbia.edu
+  644  git config --list
+  645  cd desktop
+  646  cd Fintech_Workspace
+  647  ls
+  648  cd Module_2
+  649  ls
+  650  cd Starter_Code
+  651  ls
+  652  cd ..
+  653  git clone git@github.com:DynahB1/Challenge_02.git
+  654  cd Challenge_2
+  655  ls
+  656  cd Challenge_02
+  657  pwd
+  658  git status 
+  659  git add README.md
+  660  git status
+  661  touch new_file.txt
+  662  ls
+  663  git status
+  664  git add new_file.txt
+  665  git status
+  666  git commit -m "Updated README and created a new txt file"
+  667  git status
+  668  \git pudh 
+  669  git push
+  670  cd .
+  671  cd ..
+  672  git clone git@github.com:DynahB1/Test_Repo.git
+  673  ls
+  674  git status
+  675  git status
+  676  ls
+  677  cd Test_Repo
+  678  git status
+  679  git add Readme.md
+  680  git status
+  681  git status
+  682  git status
+  683  git add README.md
+  684  git status
+  685  git status
+  686  git add README.md
+  687  git status
+  688  git commit -m "Updated README"
+  689  git push
+  690  cd ..
+  691  cd Starter_Code
+  692  jupyter lab
+  693  conda activate dev
+  694  cd loan_qualifier_app
+  695  python app.py
+  696  python app.py
+  697  conda activate dev
+  698  git config --global uder.name <Dynah Beermann>
+  699  clear
+  700  git cinfig --global user.name <Dynah Beermann>
+  701  clear
+  702  git config --global user.mail <dsv2109@columbia.edu>
+  703  clear
+  704  git config --global user.name Dynah Beermann
+  705  git config --global user.email dsv2109@columbia.edu
+  706  git config --list
+  707  cd desktop
+  708  cd Fintech_Workspace
   709  ls
-  710  cd Test_Repo
-  711  git status
-  712  git add Readme.md
-  713  git status
-  714  git status
-  715  git status
-  716  git add README.md
-  717  git status
-  718  git status
-  719  git add README.md
-  720  git status
-  721  git commit -m "Updated README"
-  722  git push
-  723  cd ..
-  724  cd Starter_Code
-  725  jupyter lab
-  726  conda activate dev
-  727  cd loan_qualifier_app
-  728  python app.py
-  729  python app.py
-  730  conda activate dev
-  731  git config --global uder.name <Dynah Beermann>
-  732  clear
-  733  git cinfig --global user.name <Dynah Beermann>
-  734  clear
-  735  git config --global user.mail <dsv2109@columbia.edu>
-  736  clear
-  737  git config --global user.name Dynah Beermann
-  738  git config --global user.email dsv2109@columbia.edu
-  739  git config --list
-  740  cd desktop
-  741  cd Fintech_Workspace
-  742  ls
-  743  cd Module_2
-  744  ls
-  745  cd Starter_Code
-  746  ls
-  747  cd ..
-  748  git clone git@github.com:DynahB1/Challenge_02.git
-  749  cd Challenge_2
-  750  ls
-  751  cd Challenge_02
-  752  pwd
-  753  git status 
-  754  git add README.md
-  755  git status
-  756  touch new_file.txt
-  757  ls
-  758  git status
-  759  git add new_file.txt
-  760  git status
-  761  git commit -m "Updated README and created a new txt file"
-  762  git status
-  763  \git pudh 
-  764  git push
-  765  cd .
-  766  cd ..
-  767  git clone git@github.com:DynahB1/Test_Repo.git
-  768  ls
-  769  git status
-  770  git status
-  771  ls
-  772  cd Test_Repo
+  710  cd Module_2
+  711  ls
+  712  cd Starter_Code
+  713  ls
+  714  cd ..
+  715  git clone git@github.com:DynahB1/Challenge_02.git
+  716  cd Challenge_2
+  717  ls
+  718  cd Challenge_02
+  719  pwd
+  720  git status 
+  721  git add README.md
+  722  git status
+  723  touch new_file.txt
+  724  ls
+  725  git status
+  726  git add new_file.txt
+  727  git status
+  728  git commit -m "Updated README and created a new txt file"
+  729  git status
+  730  \git pudh 
+  731  git push
+  732  cd .
+  733  cd ..
+  734  git clone git@github.com:DynahB1/Test_Repo.git
+  735  ls
+  736  git status
+  737  git status
+  738  ls
+  739  cd Test_Repo
+  740  git status
+  741  git add Readme.md
+  742  git status
+  743  git status
+  744  git status
+  745  git add README.md
+  746  git status
+  747  git status
+  748  git add README.md
+  749  git status
+  750  git commit -m "Updated README"
+  751  git push
+  752  cd ..
+  753  cd Starter_Code
+  754  jupyter lab
+  755  conda activate dev
+  756  cd loan_qualifier_app
+  757  python app.py
+  758  python app.py
+  759  conda activate dev
+  760  cd desktop
+  761  cd Fintech_workspace
+  762  cd Module_2
+  763  cd Chellenge_02
+  764  git status
+  765  cd Challenge_02
+  766  git status
+  767  git commit -m
+  768  git commit -a
+  769  cd desktop
+  770  cd Fintech_Workspace
+  771  cd Module_2
+  772  cd Challenge_02
   773  git status
-  774  git add Readme.md
-  775  git status
+  774  git remove new_file.txt
+  775  git rm text_file.txt
   776  git status
-  777  git status
+  777  git add README.txt
   778  git add README.md
   779  git status
-  780  git status
-  781  git add README.md
-  782  git status
-  783  git commit -m "Updated README"
-  784  git push
-  785  cd ..
-  786  cd Starter_Code
-  787  jupyter lab
-  788  conda activate dev
-  789  cd loan_qualifier_app
-  790  python app.py
-  791  python app.py
-  792  conda activate dev
-  793  cd desktop
-  794  cd Fintech_workspace
-  795  cd Module_2
-  796  cd Chellenge_02
+  780  git rm new_file.txt
+  781  git status
+  782  git add Sarter_Code
+  783  history > 50 terminal_history.txt
+  784  history>50 terminal_history.txt
+  785   git commit
+  786  cd desktop
+  787  cd Fintech_Workspace
+  788  cd Module_2
+  789  cd Challenge_02
+  790  git status
+  791  git add README.md
+  792  git status
+  793  git log
+  794  git status
+  795  git commit -a -m "Adding the Starter_Code files"
+  796  history 50 > terminal_history.txt
   797  git status
-  798  cd Challenge_02
-  799  git status
-  800  git commit -m
-  801  git commit -a
-  802  cd desktop
-  803  cd Fintech_Workspace
-  804  cd Module_2
-  805  cd Challenge_02
-  806  git status
-  807  git remove new_file.txt
-  808  git rm text_file.txt
-  809  git status
-  810  git add README.txt
-  811  git add README.md
-  812  git status
-  813  git rm new_file.txt
-  814  git status
-  815  git add Sarter_Code
-  816  history > 50 terminal_history.txt
-  817  history>50 terminal_history.txt
-  818   git commit
-  819  cd desktop
-  820  cd Fintech_Workspace
-  821  cd Module_2
-  822  cd Challenge_02
-  823  git status
-  824  git add README.md
-  825  git status
-  826  git log
-  827  git status
-  828  git commit -a -m "Adding the Starter_Code files"
-  829  history 50 > terminal_history.txt
-  830  git status
-  831  git add Starter_Code/
-  832  git add terminal_history.txt
-  833  git status
-  834  git push origin master
-  835  git push origin
-  836  git status
-  837  git add .DS_Score
-  838  git status
-  839  git add README.md
-  840  git push origin
-  841  git status
-  842  jupyter lab
-  843  conda activate dev
-  844  cd Starter_Code
-  845  cd loan_qualifier_app
-  846  python app.py
-  847  python app.py
-  848  python app.py
-  849  ./data/daily_rate_sheet.csv
-  850  pyhon app.py
-  851  data/daily_rate_sheet.csv
-  852  python app.py
-  853  python app.py
-  854  clear
-  855  python app.py
-  856  python app.py
-  857  python app.py
-  858  750
+  798  git add Starter_Code/
+  799  git add terminal_history.txt
+  800  git status
+  801  git push origin master
+  802  git push origin
+  803  git status
+  804  git add .DS_Score
+  805  git status
+  806  git add README.md
+  807  git push origin
+  808  git status
+  809  jupyter lab
+  810  conda activate dev
+  811  cd Starter_Code
+  812  cd loan_qualifier_app
+  813  python app.py
+  814  python app.py
+  815  python app.py
+  816  ./data/daily_rate_sheet.csv
+  817  pyhon app.py
+  818  data/daily_rate_sheet.csv
+  819  python app.py
+  820  python app.py
+  821  clear
+  822  python app.py
+  823  python app.py
+  824  python app.py
+  825  750
+  826  python app.py
+  827  clear
+  828  python app.py
+  829  conda activate dev
+  830  python app.py
+  831  cd desktop
+  832  cd Fintech_Workspace
+  833  cd Module_2
+  834  cd Challenge_02
+  835  git status
+  836  git add README.md
+  837  git status
+  838  git log
+  839  git status
+  840  git commit -a -m "Adding the Starter_Code files"
+  841  history 50 > terminal_history.txt
+  842  git status
+  843  git add Starter_Code/
+  844  git add terminal_history.txt
+  845  git status
+  846  git push origin master
+  847  git push origin
+  848  git status
+  849  git add .DS_Score
+  850  git status
+  851  git add README.md
+  852  git push origin
+  853  git status
+  854  jupyter lab
+  855  conda activate dev
+  856  cd Starter_Code
+  857  cd loan_qualifier_app
+  858  python app.py
   859  python app.py
-  860  clear
-  861  python app.py
-  862  conda activate dev
-  863  python app.py
-  864  cd desktop
-  865  cd Fintech_Workspace
-  866  cd Module_2
-  867  cd Challenge_02
-  868  git status
-  869  git add README.md
-  870  git status
-  871  git log
-  872  git status
-  873  git commit -a -m "Adding the Starter_Code files"
-  874  history 50 > terminal_history.txt
-  875  git status
-  876  git add Starter_Code/
-  877  git add terminal_history.txt
-  878  git status
-  879  git push origin master
-  880  git push origin
-  881  git status
-  882  git add .DS_Score
-  883  git status
-  884  git add README.md
-  885  git push origin
-  886  git status
-  887  jupyter lab
-  888  conda activate dev
-  889  cd Starter_Code
-  890  cd loan_qualifier_app
-  891  python app.py
-  892  python app.py
-  893  python app.py
-  894  ./data/daily_rate_sheet.csv
-  895  pyhon app.py
-  896  data/daily_rate_sheet.csv
-  897  python app.py
-  898  python app.py
-  899  clear
-  900  python app.py
-  901  python app.py
-  902  python app.py
-  903  750
+  860  python app.py
+  861  ./data/daily_rate_sheet.csv
+  862  pyhon app.py
+  863  data/daily_rate_sheet.csv
+  864  python app.py
+  865  python app.py
+  866  clear
+  867  python app.py
+  868  python app.py
+  869  python app.py
+  870  750
+  871  python app.py
+  872  clear
+  873  python app.py
+  874  conda activate dev
+  875  python app.py
+  876  cd desktop
+  877  cd Fintech_Workspace
+  878  cd Module_2
+  879  cd Challenge_02
+  880  git status
+  881  git add README.md
+  882  git status
+  883  git log
+  884  git status
+  885  git commit -a -m "Adding the Starter_Code files"
+  886  history 50 > terminal_history.txt
+  887  git status
+  888  git add Starter_Code/
+  889  git add terminal_history.txt
+  890  git status
+  891  git push origin master
+  892  git push origin
+  893  git status
+  894  git add .DS_Score
+  895  git status
+  896  git add README.md
+  897  git push origin
+  898  git status
+  899  jupyter lab
+  900  conda activate dev
+  901  cd Starter_Code
+  902  cd loan_qualifier_app
+  903  python app.py
   904  python app.py
-  905  clear
-  906  python app.py
-  907  conda activate dev
-  908  python app.py
-  909  cd desktop
-  910  cd Fintech_Workspace
-  911  cd Module_2
-  912  cd Challenge_02
-  913  git status
-  914  git add README.md
-  915  git status
-  916  git log
-  917  git status
-  918  git commit -a -m "Adding the Starter_Code files"
-  919  history 50 > terminal_history.txt
-  920  git status
-  921  git add Starter_Code/
-  922  git add terminal_history.txt
-  923  git status
-  924  git push origin master
-  925  git push origin
+  905  python app.py
+  906  ./data/daily_rate_sheet.csv
+  907  pyhon app.py
+  908  data/daily_rate_sheet.csv
+  909  python app.py
+  910  python app.py
+  911  clear
+  912  python app.py
+  913  python app.py
+  914  python app.py
+  915  750
+  916  python app.py
+  917  clear
+  918  python app.py
+  919  conda activate dev
+  920  python app.py
+  921  cd desktop
+  922  cd Fintech_Workspace
+  923  cd Module_2
+  924  ls
+  925  cd Challenge_02
   926  git status
-  927  git add .DS_Score
+  927  git commit -a
   928  git status
-  929  git add README.md
-  930  git push origin
-  931  git status
-  932  jupyter lab
-  933  conda activate dev
-  934  cd Starter_Code
-  935  cd loan_qualifier_app
-  936  python app.py
-  937  python app.py
-  938  python app.py
-  939  ./data/daily_rate_sheet.csv
-  940  pyhon app.py
-  941  data/daily_rate_sheet.csv
-  942  python app.py
-  943  python app.py
-  944  clear
+  929  git commit -a
+  930  git commit -a -m "Added save_csv to fileio"
+  931  git push origin
+  932  git pull
+  933  git pull 
+  934  git config pull.rebase false
+  935  git status
+  936  desktop
+  937  cd desktop
+  938  cd Fintech_Workspace
+  939  cd Module_2
+  940  cd Challenge_02
+  941  jupyter lab
+  942  conda activate dev
+  943  cd Starter_Code
+  944  cd loan_qualifier_app
   945  python app.py
-  946  python app.py
+  946  clear
   947  python app.py
-  948  750
-  949  python app.py
-  950  clear
-  951  python app.py
-  952  conda activate dev
-  953  python app.py
-  954  cd desktop
-  955  cd Fintech_Workspace
-  956  cd Module_2
-  957  ls
-  958  cd Challenge_02
-  959  git status
-  960  git commit -a
-  961  git status
-  962  git commit -a
-  963  git commit -a -m "Added save_csv to fileio"
-  964  git push origin
-  965  git pull
-  966  git pull 
-  967  git config pull.rebase false
-  968  git status
-  969  desktop
-  970  cd desktop
-  971  cd Fintech_Workspace
-  972  cd Module_2
-  973  cd Challenge_02
-  974  jupyter lab
-  975  conda activate dev
-  976  cd Starter_Code
-  977  cd loan_qualifier_app
-  978  python app.py
-  979  clear
-  980  python app.py
-  981  python app.py
-  982  clear
-  983  python app.py
-  984  clear
-  985  desktop
-  986  cd desktop
-  987  cd Fintech_Workspace
-  988  cd Module_2
-  989  cd Challenge_02
-  990  jupyter lab
-  991  conda activate dev
-  992  cd Starter_Code
-  993  cd loan_qualifier_app
-  994  python app.py
-  995  clear
-  996  python app.py
-  997  python app.py
-  998  clear
-  999  python app.py
- 1000  clear
+  948  python app.py
+  949  clear
+  950  python app.py
+  951  clear
+  952  desktop
+  953  cd desktop
+  954  cd Fintech_Workspace
+  955  cd Module_2
+  956  cd Challenge_02
+  957  jupyter lab
+  958  conda activate dev
+  959  cd Starter_Code
+  960  cd loan_qualifier_app
+  961  python app.py
+  962  clear
+  963  python app.py
+  964  python app.py
+  965  clear
+  966  python app.py
+  967  clear
+  968  cd desktop
+  969  cd Fintech_Workspace
+  970  cd Module_2
+  971  cd Challenge_02
+  972  git status
+  973  git add Starter_Code/.DS_Store
+  974  git add Stater_Code/loan_qualifier_app/.DS_Store
+  975  git add Starter_Code/loan_qualifier_app_qualifier/.DS_Store
+  976  git statius
+  977  git status
+  978  gitt commit -a
+  979  git commit -a
+  980  git add Starter_Code/loan_qualifier_app/.DS_Store
+  981  git status
+  982  git add Starter_Code/loan_qualifier_app/qualifier/.DS_Store
+  983  git status
+  984  git add .DS_Store
+  985  git status
+  986  git add Starter_Code/loan_qualifier_app/data/qualifying_loans.csv
+  987  git add Starter_Code/loan_qualifier_app/qualifier/utils/.DS_Store
+  988  git add Starter_Code/loan_qualifier_app/untitled.txt
+  989  git status
+  990  git commit origin
+  991  git commit
+  992  git commit -a
+  993  history 50 > terminal_history.txt
+  994  git push
+  995  op
+  996  cd desktop
+  997  cd Fintech_Workspace
+  998  cd Module_3
+  999  conda activate dev
+ 1000  jupyter lab
  1001  cd desktop
- 1002  cd Fintech_Workspace
- 1003  cd Module_2
- 1004  cd Challenge_02
- 1005  git status
- 1006  git add Starter_Code/.DS_Store
- 1007  git add Stater_Code/loan_qualifier_app/.DS_Store
- 1008  git add Starter_Code/loan_qualifier_app_qualifier/.DS_Store
- 1009  git statius
- 1010  git status
- 1011  gitt commit -a
- 1012  git commit -a
- 1013  git add Starter_Code/loan_qualifier_app/.DS_Store
- 1014  git status
- 1015  git add Starter_Code/loan_qualifier_app/qualifier/.DS_Store
- 1016  git status
- 1017  git add .DS_Store
- 1018  git status
- 1019  git add Starter_Code/loan_qualifier_app/data/qualifying_loans.csv
- 1020  git add Starter_Code/loan_qualifier_app/qualifier/utils/.DS_Store
- 1021  git add Starter_Code/loan_qualifier_app/untitled.txt
- 1022  git status
- 1023  git commit origin
- 1024  git commit
- 1025  git commit -a
+ 1002  git clone git@github.com:DynahB1/Challenge_02.git
+ 1003  cd Challenge_02
+ 1004  git status
+ 1005  cd ~
+ 1006  cd desktop
+ 1007  cd Fintech_Workspace
+ 1008  cd Module_2
+ 1009  ls
+ 1010  cd Challenge_02
+ 1011  ls
+ 1012  jupyter lab
+ 1013  git add -A
+ 1014  git commit -m "Added comments to initial file"
+ 1015  git push
