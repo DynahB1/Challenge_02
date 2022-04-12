@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#This program filters qualifying loans
 """Loan Qualifier Application.
 
 This is a command line application to match applicants with qualifying loans.
