@@ -24,9 +24,9 @@ text = "The saved list of loans you qualify for can be found in this file qualif
 
 [Data files](Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv)
 
-## Tried to save my last 50 commands on terminal but failed:
+## Picture of the app working 
 
-![My terminal](Starter_Code/loan_qualifier_app/IMG_6243.JPG)
+![My terminal](Starter_Code/loan_qualifier_app/Challenge_02_Pic.png)
 
 
 ---
